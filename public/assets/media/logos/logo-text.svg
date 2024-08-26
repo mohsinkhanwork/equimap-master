@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 116" width="372" height="116">
+	<title>Equimap</title>
+	<style>
+		tspan { font-size: 100px; white-space:pre }
+	</style>
+	<g id="equimap-text">
+		<text id="equimap" style="transform: matrix(1,0,0,1,3.569,78.872)">
+			<tspan x="0" y="0" dx="0 -5 -5 -5 -5 -5 -5 -5" >equimap</tspan>
+		</text>
+	</g>
+</svg>

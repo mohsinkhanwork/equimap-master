@@ -1,0 +1,57 @@
+/* PROVIDERS */
+.image-delete-button {
+    cursor: pointer;
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 8px;
+    left: 8px;
+    z-index: 100;
+}
+
+.image-cover-button {
+    cursor: pointer;
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 8px;
+    left: 8px;
+    z-index: 100;
+}
+
+.image-input-wrapper.gallery {
+    position: relative;
+    top: -25px;
+    z-index: 1;
+}
+
+/* MAP */
+.pac-container {
+    z-index: 1060;
+    border-radius: 0.475rem;
+    margin: 2px 0;
+    background: #F9F9F9;
+}
+
+.pac-item-query,
+.pac-matched,
+.pac-item {
+    color: #5E6278;
+    font-size: 14px;
+    font-family: "Inter";
+    font-size: 1.1rem;
+    padding: 5px;
+}
+
+.pac-item:hover {
+    background: #f6f6f6;
+}
+
+.pac-icon {
+    display: none !important;
+}
+
+/* REGISTER */
+.make-pass-visible {
+    top: 22px;
+}
+
+/* MISC */
